@@ -1,6 +1,6 @@
-# tests/test_main.py
+# tests/test_add.py
 import pytest
-from main import add
+from add import add
 
 def test_add():
     assert add(1, 2) == 3
