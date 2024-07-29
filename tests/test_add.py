@@ -1,6 +1,6 @@
 # tests/test_add.py
 import pytest
-from src.add import add
+from src.pkgsample.add import add
 
 def test_add():
     assert add(1, 2) == 3
