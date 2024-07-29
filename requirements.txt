@@ -3,3 +3,4 @@
 
 build
 twine
+pytest
